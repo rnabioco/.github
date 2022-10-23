@@ -1,4 +1,4 @@
-## Greetings Experimentalist Human 👋
+## Greetings RNA Lovers! 👋
 
 * 🙋‍♀️ We are a group of RNA biologists in the [RNA Bioscience Initiative](https://medschool.cuanschutz.edu/rbi)
   who develop software to support RNA technologies.
